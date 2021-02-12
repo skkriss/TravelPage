@@ -1,3 +1,6 @@
+# Travel Page
+Sample Travel Page Project using JavaScript ( JS + REACT + HTML + CSS )
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
